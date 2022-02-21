@@ -4,4 +4,5 @@
 
 
 pip install -r req.txt
+
 python Avito.py
